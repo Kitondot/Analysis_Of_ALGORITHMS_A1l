@@ -23,10 +23,10 @@ bash
 mvn clean package
 
 
-Run example:
+## Run example:
 java -jar target/algorithms-1.0-SNAPSHOT.jar mergesort metrics.csv 1000 64000 2 3
 
-Arguments:
+## Arguments:
 algorithm (mergesort, quicksort, select)
 output csv file
 min size
@@ -34,7 +34,7 @@ max size
 step (multiply by)
 trials (repeat times)
 
-Results
+## Results
 I ran MergeSort, QuickSort and Select.
 The program saved results into CSV.
 Here are the plots:
@@ -43,12 +43,12 @@ Time
 Depth
 Comparisons
 
-My notes
+## My notes
 MergeSort: works always stable, O(n log n).
 QuickSort: usually fastest, but recursion is deeper.
 Select: O(n), but slower in practice, not a sorting algorithm.
 
-Tests
+## Tests
 All algorithms are covered with simple JUnit 5 tests.
 You can run them with the run button inside the test java files (each of them)
 It will save the data automatically
@@ -56,6 +56,7 @@ It will save the data automatically
 GitHub
 Link to repo:
 https://github.com/Kitondot/Analysis_Of_ALGORITHMS_A1l
+
 
 
 
