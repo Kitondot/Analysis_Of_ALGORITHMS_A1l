@@ -26,7 +26,7 @@ mvn clean package
 ## Run example:
 java -jar target/algorithms-1.0-SNAPSHOT.jar mergesort metrics.csv 1000 64000 2 3
 
-## Arguments:
+Arguments:
 algorithm (mergesort, quicksort, select)
 output csv file
 min size
@@ -43,7 +43,7 @@ Time
 Depth
 Comparisons
 
-## My notes
+My notes
 MergeSort: works always stable, O(n log n).
 QuickSort: usually fastest, but recursion is deeper.
 Select: O(n), but slower in practice, not a sorting algorithm.
@@ -56,6 +56,7 @@ It will save the data automatically
 GitHub
 Link to repo:
 https://github.com/Kitondot/Analysis_Of_ALGORITHMS_A1l
+
 
 
 
