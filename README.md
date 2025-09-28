@@ -48,7 +48,7 @@ Time
 Depth
 Comparisons
 ```
-##My notes
+## My notes
 ```
 MergeSort: works always stable, O(n log n).
 QuickSort: usually fastest, but recursion is deeper.
@@ -64,6 +64,7 @@ GitHub
 Link to repo:
 https://github.com/Kitondot/Analysis_Of_ALGORITHMS_A1l
 ```
+
 
 
 
