@@ -20,6 +20,7 @@ Build the project:
 ```bash
 mvn clean package
 
+
 Run example:
 java -jar target/algorithms-1.0-SNAPSHOT.jar mergesort metrics.csv 1000 64000 2 3
 
@@ -39,7 +40,9 @@ Here are the plots:
 Time
 Depth
 Comparisons
-
+![photo_2025-09-28_21-58-54](https://github.com/user-attachments/assets/cd27b058-7492-4f25-91aa-4ecb1207c3f7)
+![photo_2025-09-28_21-59-08](https://github.com/user-attachments/assets/5c47b643-bb86-4ac7-b1a8-1ff142e974fb)
+![photo_2025-09-28_21-59-12](https://github.com/user-attachments/assets/592f8057-9aab-41ee-88b6-0c1824e47796)
 
 My notes
 MergeSort: works always stable, O(n log n).
@@ -54,3 +57,4 @@ It will save the data automatically
 GitHub
 Link to repo:
 https://github.com/Kitondot/Analysis_Of_ALGORITHMS_A1l
+
