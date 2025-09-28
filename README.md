@@ -19,7 +19,7 @@ Memory allocations
 
 ## How to run
 Build the project:
-```bash
+bash
 mvn clean package
 
 
@@ -52,9 +52,10 @@ Tests
 All algorithms are covered with simple JUnit 5 tests.
 You can run them with the run button inside the test java files (each of them)
 It will save the data automatically
-
+```
 GitHub
 Link to repo:
 https://github.com/Kitondot/Analysis_Of_ALGORITHMS_A1l
+
 
 
